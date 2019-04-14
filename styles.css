@@ -1,0 +1,36 @@
+body {
+    background: #363636;
+}
+
+#wrapper {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+}
+
+#textArea {
+    width: 85%;
+    min-height: 35vh;
+    font-size: 23px;
+}
+
+#mixButton {
+    height: 100px;
+    width: 13%;
+    margin-left: 1%;
+}
+
+#outputWrapper{
+    background:#f5f3f388;
+    width:80%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:2%;
+    min-height: 35vh;
+    font-size: 23px;
+    padding:15px;
+}
